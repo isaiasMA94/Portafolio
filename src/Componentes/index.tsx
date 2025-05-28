@@ -7,7 +7,7 @@ import isaias from "../assets/Isaias.jpeg";
 
 const Portafolio: React.FC = () => (
   <div>
-    <header className="custom-header">
+    <header className="custom-header"> 
       <span className="header-title neon-text">P O R T A F O L I O</span>
       <nav className="header-nav">
         <ul>
