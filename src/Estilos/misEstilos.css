@@ -109,7 +109,7 @@ main {
 .image-card:hover .image-overlay {
     background-color: rgba(0, 0, 0, 0.3);
 }
-        
+    
 #experiencias {
     display: grid;
     grid-template-columns: 1fr 1fr;
