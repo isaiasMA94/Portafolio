@@ -15,10 +15,10 @@ const Portafolio: React.FC = () => (
             <a href="#experiencias">Experiencias</a>
           </li>
           <li>
-            <a href="#contacto">Contacto</a>
+            <a href="#contacto">Sitios</a>
           </li>
           <li>
-            <a href="#sitios">Sitios</a>
+            <a href="#sitios">Contacto</a>
           </li>
           <li>
             <a href="#cursos">Cursos</a>
