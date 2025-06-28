@@ -105,7 +105,7 @@ const Portafolio: React.FC = () => (
           </li>
         </ul>
       </section>
-
+      <br /><br />
       <section id="contacto">
         <h2>Contacto</h2>
         <ul className="item-list">
@@ -115,7 +115,7 @@ const Portafolio: React.FC = () => (
           <li>GitHub: IsaiasMA94</li>
         </ul>
       </section>
-
+      <br /><br />
       <section id="cursos">
         <h2>Cursos y Certificados</h2>
         <ul className="item-list">
@@ -126,6 +126,7 @@ const Portafolio: React.FC = () => (
           <li>Conocimiento de Estructura de datos y BBDD, MySql, NoSql</li>
         </ul>
       </section>
+      <br /><br />
       <section id="Proyectos">
         <h2>Proyectos personales realizados en <br />
         diferentes lenguajes de programación</h2>
