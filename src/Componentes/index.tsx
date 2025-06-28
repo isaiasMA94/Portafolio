@@ -33,10 +33,10 @@ const Portafolio: React.FC = () => (
     <main>
       <div className="image-gallery">
         <div className="image-card">
-          <img src={logo} alt="Logo" />
+          <img src={logo} alt="Venta de boletos" />
           <div className="image-overlay">
-            <h3>LOGO ISAIAS._.GAMERS</h3>
-            <p>Gaming and Print 3D</p>
+            <h3>VENTA DE BOLETOS</h3>
+            <p>Aplicación desarrolada en JavaScript, Html5, CSS</p>
           </div>
         </div>
 
