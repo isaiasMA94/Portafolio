@@ -1,6 +1,6 @@
 import React from "react";
 import "../Estilos/misEstilos.css";
-import logo from "../assets/logo.jpeg";
+import ventaBoletos from "../assets/venta boletos.png";
 import icono from "../assets/icono.jpeg";
 import isaias from "../assets/Isaias.jpeg";
 
@@ -33,10 +33,12 @@ const Portafolio: React.FC = () => (
     <main>
       <div className="image-gallery">
         <div className="image-card">
-          <img src={logo} alt="Venta de boletos" />
+          <img src={ventaBoletos} alt="Venta de boletos" />
           <div className="image-overlay">
             <h3>VENTA DE BOLETOS</h3>
-            <p>Aplicación desarrolada en JavaScript, Html5, CSS</p>
+            <p>Aplicación desarrolada en JavaScript, Html5, CSS, que crea una pagina web
+              donde se tiene las opciones, de vender boletos, guardando datos en locarStotrage
+            </p>
           </div>
         </div>
 
